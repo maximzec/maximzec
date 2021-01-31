@@ -1,1 +1,1 @@
-[![Вконтакте](https://www.davidefiammenghi.com/wp-content/uploads/icons/VK_BlackWhite_Logo_transparent.png "Вконтакте")](https://vk.com/tivtonlitovsky)
+(img src="https://github-readme-stats.vercel.app/api?username=maximzec&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
