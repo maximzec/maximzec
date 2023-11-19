@@ -21,10 +21,10 @@
 
 
 
-- 🌱 В данный момент изучаю frontend!
+- 🌱 В данный момент изучаю ML!
 - 🤔 Ищу ментора.
 - 💬 Можете спросить меня насчет математики.
-- 📫 Как со мной связаться: [VK - Максим Фроленко](https://vk.com/tivtonlitovsky) , [Telegram - @Kandidater](https://t.me/Kandidater)
+- 📫 Как со мной связаться: [Telegram - @MFDooo](https://t.me/Kandidater)
 
 
 
